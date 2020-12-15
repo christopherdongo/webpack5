@@ -1,1 +1,0 @@
-(self.webpackChunkdemo=self.webpackChunkdemo||[]).push([[826],{126:function(e,a,o){"use strict";var n=o(486),s=o.n(n);console.log(s().join(["Index","module","loaded!"]," ")),console.log("respuestaaaaaaaaa")}},0,[[126,486,712]]]);
